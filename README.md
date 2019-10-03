@@ -41,4 +41,4 @@ Screenshots for the created webpage go here
 
 ## Copyright and License
 
-Copyright 2013-2019 Blackrock Digital LLC. Code released under the [MIT](https://github.com/sarahab23/Algorithm-Visualizer/blob/master/LICENSE) license.
+Copyright 2019. Code released under the [MIT](https://github.com/sarahab23/Algorithm-Visualizer/blob/master/LICENSE) license.
