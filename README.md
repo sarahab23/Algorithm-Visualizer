@@ -1,8 +1,7 @@
-# [Start Bootstrap - SB Admin 2](https://startbootstrap.com/template-overviews/sb-admin-2/)
+# Algorithm Visualizer
 
-[SB Admin 2](https://startbootstrap.com/template-overviews/sb-admin-2/) is an open source admin dashboard theme for [Bootstrap](http://getbootstrap.com/) created by [Start Bootstrap](http://startbootstrap.com/).
+[Algorithm Visualizer](https://sarahab23.github.io/Algorithm-Visualizer/index.html) is an open source project created by [Sarah Abraham](https://github.com/sarahab23) and [Aditya Samantaray](https://github.com/theadityasam). The dashboard styled theme was adopted from [Blackrock Digital](https://github.com/BlackrockDigital/startbootstrap-sb-admin-2/tree/master)
 
-For the legacy Bootstrap 3 version of this theme, you can view the [last stable release](https://github.com/BlackrockDigital/startbootstrap-sb-admin-2/releases/tag/v3.3.7%2B1) of SB Admin 2 for Bootstrap 3.
 
 ## Preview
 
