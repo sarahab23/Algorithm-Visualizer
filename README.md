@@ -1,4 +1,4 @@
-# Algorithm Visualizer
+# Algo Visualiser
 
 [Algorithm Visualizer](https://sarahab23.github.io/Algorithm-Visualizer/index.html) is an open source project created by [Sarah Abraham](https://github.com/sarahab23) and [Aditya Samantaray](https://github.com/theadityasam). The dashboard styled theme for the webpage was adopted from [Blackrock Digital](https://github.com/BlackrockDigital/startbootstrap-sb-admin-2/tree/master). The aim of the project is as the name says - provide an intuitive visual depiction of the way the amazing algorithms work. 
 
