@@ -35,7 +35,7 @@
 
 ## Usage
 
-Screenshots for the created webpage go here
+Click on the link
 
 
 
